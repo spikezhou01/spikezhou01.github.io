@@ -17,7 +17,7 @@ const translations = {
     59:"Safe and Sustainable Battery Innovation",60:"Led project planning, technical materials and team presentation. The project won a silver award at the 2023 China International College Students' Innovation Competition.",
     61:"Project lead / Multilingual presentation",63:"Carbon-fibre-reinforced plastics",64:"Contributed to synthesis, modification and performance testing; recorded experimental data and prepared technical reports.",
     65:"Experimental research / Data analysis",67:"Functional nanomaterials and energy storage",68:"Research areas include nanocomposites, colloid and interface chemistry, and electrochemical energy storage. I focus on designing and synthesising functional nanomaterials, including carbon-based composites, for secondary-battery electrodes and environmental adsorption.",
-    69:"Nanocomposites / Electrochemical storage",70:"05 / Business",71:"Broad capabilities in the China–Russia market",72:"From technology to transport, and from language support to technical exchange, I help connect teams and opportunities across the two markets.",
+    69:"Nanocomposites / Electrochemical storage",70:"06 / Companies",71:"Broad capabilities in the China–Russia market",72:"From technology to transport, and from language support to technical exchange, I help connect teams and opportunities across the two markets.",
     74:"Ningbo Fareast Tech Catalyst Engineering Co., Ltd.",76:"The company provides chemical process packages, catalysts and supporting equipment. I handle Russian-speaking market communication, with a focus on marine antifouling coatings and distillation tower internals.",
     77:"Technology promotion, industry exchange and client requirements in Russian-speaking markets.",78:"Visit company website ↗",
     79:"Sanli Fengxiang",81:"Hubei Sanli Fengxiang Technology Co., Ltd.",83:"Its businesses include new materials, chemical technology and engineering services, including MMA, polysulfone materials, separation technology and turnkey engineering solutions.",
@@ -26,7 +26,7 @@ const translations = {
     90:"Local operations in Russia, market intelligence and partner communication.",91:"Visit company website ↗",
     95:"HyleX Technology Limited (Hong Kong)",97:"For advanced PVD, CVD and ALD coating processes, the platform supports R&D and production through process data management, intelligent analysis, experiment design and parameter optimisation.",
     98:"Market research, client discovery and research and industry partnerships.",99:"Visit company website ↗",
-    100:"06 / Contact",101:"Let's discuss",102:"what's next.",103:"For materials research, technical projects or China–Russia business communication, email me to discuss your needs.",
+    100:"07 / Contact",101:"Let's discuss",102:"what's next.",103:"For materials research, technical projects or China–Russia business communication, email me to discuss your needs.",
     105:"© 2026 Yuyang Zhou",106:"Materials / Research / China–Russia Cooperation",107:"Back to top ↑"
   },
   ru: {
@@ -47,7 +47,7 @@ const translations = {
     58:"ИННОВАЦИИ / 2023",59:"Безопасные и устойчивые аккумуляторы",60:"Руководил планированием проекта, подготовкой технических материалов и выступлением команды. Проект получил серебряную награду на Китайском международном конкурсе студенческих инноваций в 2023 году.",
     61:"Руководство проектом / Многоязычная защита",62:"ИССЛЕДОВАНИЯ / 2024 —",63:"Пластики, армированные углеродным волокном",64:"Участвовал в синтезе, модификации и испытаниях; вёл учёт экспериментальных данных и готовил технические отчёты.",
     65:"Эксперименты / Обработка данных",66:"МАГИСТЕРСКОЕ ИССЛЕДОВАНИЕ / 2026 —",67:"Функциональные наноматериалы и хранение энергии",68:"Направления исследований: нанокомпозиты, химия коллоидов и поверхностей, электрохимические материалы для хранения энергии. Изучаю дизайн и синтез функциональных наноматериалов, в том числе углеродных композитов, для электродов вторичных аккумуляторов и экологической адсорбции.",
-    69:"Нанокомпозиты / Электрохимическое хранение энергии",70:"05 / Компании",71:"Широкий спектр задач на рынке Китая и России",72:"От технологий до логистики, от языковой поддержки до технического обмена — помогаю партнёрам находить решения и выстраивать совместную работу.",
+    69:"Нанокомпозиты / Электрохимическое хранение энергии",70:"06 / Компании",71:"Широкий спектр задач на рынке Китая и России",72:"От технологий до логистики, от языковой поддержки до технического обмена — помогаю партнёрам находить решения и выстраивать совместную работу.",
     73:"ХИМИЧЕСКИЙ ИНЖИНИРИНГ",74:"Ningbo Fareast Tech Catalyst Engineering Co., Ltd.",76:"Компания предлагает химические технологические пакеты, катализаторы и сопутствующее оборудование. Я отвечаю за коммуникацию с русскоязычным рынком, включая морские противообрастающие покрытия и внутренние устройства ректификационных колонн.",
     77:"Продвижение технологий, отраслевой обмен и работа с запросами клиентов на русскоязычном рынке.",78:"Сайт компании ↗",
     79:"Санли Фэнсян",80:"МАТЕРИАЛЫ × ХИМИЧЕСКИЕ ТЕХНОЛОГИИ",81:"Hubei Sanli Fengxiang Technology Co., Ltd.",83:"Направления компании — новые материалы, химические технологии и инжиниринг, в том числе MMA, полисульфон, технологии разделения и комплексные инженерные решения.",
@@ -56,7 +56,7 @@ const translations = {
     90:"Работа на российском рынке, сбор рыночной информации и связь с партнёрами.",91:"Сайт компании ↗",
     94:"ИИ × ПЕРЕДОВЫЕ ПОКРЫТИЯ",95:"HyleX Technology Limited (Hong Kong)",97:"Для процессов нанесения покрытий PVD, CVD и ALD платформа предлагает управление технологическими данными, интеллектуальный анализ, планирование экспериментов и оптимизацию параметров.",
     98:"Исследование рынка, общение с клиентами и развитие научного и отраслевого сотрудничества.",99:"Сайт компании ↗",
-    100:"06 / Контакты",101:"Обсудим",102:"вашу задачу.",103:"Напишите мне, если вам нужны контакты в сфере материаловедения, техническое партнёрство или деловая коммуникация между Китаем и Россией.",
+    100:"07 / Контакты",101:"Обсудим",102:"вашу задачу.",103:"Напишите мне, если вам нужны контакты в сфере материаловедения, техническое партнёрство или деловая коммуникация между Китаем и Россией.",
     105:"© 2026 Чжоу Юйян",106:"Материалы / Исследования / Сотрудничество КНР и РФ",107:"Наверх ↑"
   }
 };
@@ -66,11 +66,16 @@ const textNodes = [];
 while (iterator.nextNode()) {
   const node = iterator.currentNode;
   const parent = node.parentElement;
-  if (!node.nodeValue.trim() || !parent || parent.closest('script,style,.lang-switch')) continue;
+  if (!node.nodeValue.trim() || !parent || parent.closest('script,style,.lang-switch,#services,[data-i18n]')) continue;
   textNodes.push(node);
 }
 const original = textNodes.map(node => node.nodeValue);
 const buttons = [...document.querySelectorAll('.lang-switch button')];
+const serviceTranslations = {
+  en: {servicesLabel:'05 / Services',servicesTitle:'How I can support your business',servicesIntro:'Technology promotion, materials and cross-border transport: I help Chinese and Russian partners identify resources, clarify requirements and move cooperation forward.',marineTitle:'Marine antifouling coatings',marineBody:'I promote marine antifouling coating technology associated with the State Key Laboratory of Marine Materials at the Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences. I handle Russian-speaking market and client communication, with business support from Fareast Tech.',marinePartner:'Technology: Ningbo Institute of Materials · Support: Fareast Tech',distTitle:'Distillation technology and tower internals',distBody:'I promote distillation technology under Fareast Tech’s exclusive cooperation with the National Engineering Research Center of Distillation Technology at Tianjin University, focusing on tower internals and related separation requirements.',distPartner:'Partners: Fareast Tech · Tianjin University',sanliTitle:'New materials and industrial products',sanliBody:'I connect clients with Sanli Fengxiang’s new materials, valves, polysulfone materials and other products and technologies, and help shape practical cooperation plans.',sanliPartner:'Supported by Hubei Sanli Fengxiang Technology Co., Ltd.',bayunTitle:'China–Russia cross-border transport',bayunBody:'With Bayun Logistics, I coordinate cross-border trade transport between China and Russia, with a particular focus on machinery and construction equipment.',bayunPartner:'Supported by Hunan Bayun Logistics Co., Ltd.',phoneRu:'Russia · +7 925 349 94 39',phoneCn:'China · +86 135 4825 2791'},
+  ru: {servicesLabel:'05 / Услуги',servicesTitle:'Чем я могу помочь',servicesIntro:'Продвижение технологий, материалы и трансграничные перевозки: помогаю партнёрам из Китая и России находить ресурсы, уточнять потребности и развивать сотрудничество.',marineTitle:'Морские противообрастающие покрытия',marineBody:'Продвигаю технологии морских противообрастающих покрытий, связанные с Государственной ключевой лабораторией морских материалов при Нинбоском институте материаловедения и инженерии КАН. Отвечаю за коммуникацию с русскоязычным рынком при деловой поддержке Fareast Tech.',marinePartner:'Технология: Нинбоский институт материалов · Поддержка: Fareast Tech',distTitle:'Ректификация и внутренние устройства колонн',distBody:'Продвигаю технологии ректификации в рамках эксклюзивного сотрудничества Fareast Tech с Национальным инженерным исследовательским центром технологий ректификации Тяньцзиньского университета, включая внутренние устройства колонн и задачи химического разделения.',distPartner:'Партнёры: Fareast Tech · Тяньцзиньский университет',sanliTitle:'Новые материалы и промышленная продукция',sanliBody:'Помогаю клиентам работать с направлениями Sanli Fengxiang: новые материалы, арматура, полисульфоновые материалы и другие продукты и технологии; согласовываю потребности и варианты сотрудничества.',sanliPartner:'Поддержка: Hubei Sanli Fengxiang Technology Co., Ltd.',bayunTitle:'Перевозки между Китаем и Россией',bayunBody:'Совместно с Bayun Logistics организую трансграничные перевозки для торговли между Китаем и Россией, уделяя особое внимание промышленной и строительной технике.',bayunPartner:'Поддержка: Hunan Bayun Logistics Co., Ltd.',phoneRu:'Россия · +7 925 349 94 39',phoneCn:'Китай · +86 135 4825 2791'}
+};
+const originalServiceText = Object.fromEntries([...document.querySelectorAll('[data-i18n]')].map(el => [el.dataset.i18n, el.textContent]));
 function setLanguage(lang) {
   const words = translations[lang] || {};
   textNodes.forEach((node, index) => {
@@ -79,6 +84,7 @@ function setLanguage(lang) {
     if (translated === undefined) { node.nodeValue = source; return; }
     node.nodeValue = source.replace(source.trim(), translated);
   });
+  document.querySelectorAll('[data-i18n]').forEach(el => { el.textContent = serviceTranslations[lang]?.[el.dataset.i18n] || originalServiceText[el.dataset.i18n]; });
   document.documentElement.lang = lang === 'zh' ? 'zh-CN' : lang;
   document.querySelector('.hero-photo img').alt = lang === 'ru' ? 'Портрет Чжоу Юйяна' : lang === 'en' ? 'Portrait of Yuyang Zhou' : '周宇杨肖像';
   document.querySelector('.navlinks').setAttribute('aria-label', lang === 'ru' ? 'Главная навигация' : lang === 'en' ? 'Main navigation' : '主导航');
